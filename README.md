@@ -19,7 +19,7 @@
 	<img width="53.5%" src="https://streak-stats.demolab.com/?user=vmosiichuk-dev&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Error fetching github-readme-streak-stats" alt="My Contributions Stats. Total Contributions > 600; Longest Streak: 37 days" />
 </div>
 
-<a href="https://www.linkedin.com/in/vlad-mosiichuk" rel="nofollow">
+<a href="https://www.linkedin.com/in/vladyslav-mosiichuk" rel="nofollow">
 	<img alt="LinkedIn Banner" width="100%" src="linkedin-banner.png" />
 </a>
 
