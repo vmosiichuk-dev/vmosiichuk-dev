@@ -6,10 +6,10 @@
 </div>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,pinia,nodejs,bun,vite,webpack,npm,github,git,jquery" alt="JavaScript, TypeScript,React.js, Redux, Vue.js, Pinia, Node.js, Bun.js, Vite.js, Webpack, npm, GitHub, Git, jQuery" />
+	<img src="https://skillicons.dev/icons?i=js,ts,react,redux,jest,vite,webpack,gitlab,github,git" alt="JavaScript, TypeScript,React.js, Redux, Vue.js, Pinia, Node.js, Bun.js, Vite.js, Webpack, npm, GitHub, Git, jQuery" />
 </div>
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,styledcomponents,svg,firebase,cloudflare,babel,regex,vscode,wordpress,postman" alt="HTML, CSS, Tailwind CSS, Bootstrap, Sass, Styled Components, SVG, Firebase, Cloudflare, Babel, RegEx, VSCode, Wordpress, Postman" />
+	<img src="https://skillicons.dev/icons?i=html,css,mui,sass,styledcomponents,tailwind,nodejs,firebase,heroku,postman" alt="HTML, CSS, Tailwind CSS, Bootstrap, Sass, Styled Components, SVG, Firebase, Cloudflare, Babel, RegEx, VSCode, Wordpress, Postman" />
 </div>
 
 <br />
@@ -19,8 +19,8 @@
 	<img width="53.5%" src="https://streak-stats.demolab.com/?user=vmosiichuk-dev&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Error fetching github-readme-streak-stats" alt="My Contributions Stats. Total Contributions > 600; Longest Streak: 37 days" />
 </div>
 
-<a href="https://www.linkedin.com/in/vladyslav-mosiichuk" rel="nofollow">
+<a href="https://www.linkedin.com/in/vlad-mosiichuk" rel="nofollow">
 	<img alt="LinkedIn Banner" width="100%" src="linkedin-banner.png" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vmosiichuk-dev&hide_border=true&title_color=E0BC6C&color=C678DD&bg_color=23272E&line=61AFEF&point=E0BC6C&area=true&area_color=C678DDCC)](https://github.com/vmosiichuk-dev?tab=repositories)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vmosiichuk-dev&hide_border=true&title_color=E0BC6C&color=C678DD&bg_color=23272E&line=61AFEF&point=E0BC6C&area=true&area_color=C678DDCC)](https://github.com/vladnomad?tab=repositories)
