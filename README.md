@@ -15,8 +15,8 @@
 <br />
 
 <div align="center"> 
-	<img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmosiichuk-dev&show_icons=true&layout=compact&hide_border=true&theme=one_dark_pro" alt="Error fetching github-readme-stats" alt="My GitHub Stats. Most Used Languages: JavaScript 45%, HTML 24%, CSS 20%, TypeScript 8%, Vue.js 2%, SCSS 1%" />  
-	<img width="53.5%" src="https://streak-stats.demolab.com/?user=vmosiichuk-dev&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Error fetching github-readme-streak-stats" alt="My Contributions Stats. Total Contributions > 600; Longest Streak: 37 days" />
+	<img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmosiichuk-dev&show_icons=true&layout=compact&hide_border=true&theme=one_dark_pro" alt="My GitHub Stats. Most Used Languages: JavaScript 38%, HTML 23%, CSS 23%, TypeScript 11%, Vue.js 4%, SCSS 1%" />  
+	<img width="53.5%" src="https://streak-stats.demolab.com/?user=vmosiichuk-dev&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My Contributions Stats. Total Contributions > 1,200; Longest Streak: 37 days" />
 </div>
 
 <a href="https://www.linkedin.com/in/vladyslav-mosiichuk" rel="nofollow">
