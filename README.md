@@ -6,10 +6,7 @@
 </div>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=js,ts,react,redux,webpack,vite,vitest,gitlab,github,git" alt="JavaScript, TypeScript,React.js, Redux, Vue.js, Pinia, Node.js, Bun.js, Vite.js, Webpack, npm, GitHub, Git, jQuery" />
-</div>
-<div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,mui,sass,styledcomponents,tailwind,webstorm,firebase,heroku,postman" alt="HTML, CSS, Tailwind CSS, Bootstrap, Sass, Styled Components, SVG, Firebase, Cloudflare, Babel, RegEx, VSCode, Wordpress, Postman" />
+	<img src="https://skills.syvixor.com/api/icons?perline=10&i=js,ts,react,nextjs,nodejs,gsap,tanstack,zustand,redux,axios,html,css3,vite,supabase,firebase,mui,sass,tailwind,radixui,styledcomponents,ejs,jira,confluence,gitlab,github,git,figma,webstorm,heroku,postman" alt="My Tech Stack: JavaScript, TypeScript, React.js, Next.js, Node.js, GSAP, TanStack Query, Zustand, Redux Toolkit, Axios, HTML5, CSS3, Vite.js, Supabase, Firebase, MUI, SASS, Tailwind CSS, Radix UI, Styled components, EJS, Jira, Confluence, GitLab, GitHub, git, Figma, WebStorm, Heroku, Postman" />
 </div>
 
 <br />
